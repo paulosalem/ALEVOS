@@ -14,7 +14,7 @@ License
 
 ALEVOS - ALgebraic Engine for Verification Of Simulations
  
-Copyright (c) 2008 - 2012, Paulo Salem da Silva
+Copyright (c) 2008 - 2012, Paulo Salem da Silva.
 All rights reserved.
   
 This software may be used, modified and distributed freely, provided that the 
@@ -22,10 +22,13 @@ following rules are followed:
   
   (i)   this copyright notice must be maintained in any redistribution, in both 
           original and modified form,  of this software;
+          
   (ii)  this software must be provided free of charge, although services which 
           require the software may be charged;
+          
   (iii) for non-commercial purposes, this software may be used, modified and 
           distributed free of charge;
+          
   (iv)  for commercial purposes, only the original, unmodified, version of this 
           software may be used.
   
